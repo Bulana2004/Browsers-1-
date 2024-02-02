@@ -1,0 +1,57 @@
+.allbrowsers {
+    margin: 0;
+    padding: 5px;
+    background-color: lightslategray;
+    border-radius: 20px;
+}
+
+
+.allbrowsers > h1, .browsers  {
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.browsers {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.browsers > h2, p, a {
+    margin: 6px;
+    padding: 5px;
+    font-size: 90%;
+}
+
+.img1 {
+    float: right;
+    width:80px;
+    height: 80px;
+}
+
+.img2 {
+    float: right;
+    width:90px;
+    height: 90px;
+}
+
+.img3 {
+    float: right;
+    width:80px;
+    height: 80px;
+}
+
+a:link, a:visited {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    
+
+}
+
+a:hover, a:active {
+    background-color: black;
+    color: white;
+}
